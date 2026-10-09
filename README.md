@@ -1,4 +1,8 @@
 `<div align="center">
+<img width="2048" height="860" alt="Image" src="https://github.com/user-attachments/assets/4cb0c344-9464-4bff-ba46-1a2de5ae8f01" />
+</div>
+
+`<div align="center">
 
 <a href="https://www.instagram.com/nwht.dign_/">
 <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram">
