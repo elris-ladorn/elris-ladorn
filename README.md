@@ -1,10 +1,4 @@
 
-<div align="center">
-<img width="350" height="19" alt="Image" src="https://github.com/user-attachments/assets/0c48b9f0-1284-4e4f-8099-b973f01c3512" />
-
-°‧ 𓆝 𓆟 𓆞 ·｡
-
-</div>
 
 
 
@@ -26,11 +20,13 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F7F7F7&width=435&lines=extra+extra+read+all+about+it;Theo+is+in+his+feelin+n+cant+get+out+of+it)](https://git.io/typing-svg)
 
-༘˚⋆𐙚｡⋆𖦹.✧˚
 
 </div>
 
 
-`<div align="center">
-<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/4cb0c344-9464-4bff-ba46-1a2de5ae8f01" />
+<div align="center">
+<img width="350" height="19" alt="Image" src="https://github.com/user-attachments/assets/0c48b9f0-1284-4e4f-8099-b973f01c3512" />
+
+°‧ 𓆝 𓆟 𓆞 ·｡
+
 </div>
