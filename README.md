@@ -1,6 +1,3 @@
-`<div align="center">
-<img width="2048" height="860" alt="Image" src="https://github.com/user-attachments/assets/4cb0c344-9464-4bff-ba46-1a2de5ae8f01" />
-</div>
 
 `<div align="center">
 
@@ -16,3 +13,7 @@
 <p align="center">
 <img width="430" height="430" alt="Image" src="https://github.com/user-attachments/assets/600120b0-1b2e-4f45-8aa7-24baadaedefb" />
 </p>
+
+`<div align="center">
+<img width="400" height="248" alt="Image" src="https://github.com/user-attachments/assets/4cb0c344-9464-4bff-ba46-1a2de5ae8f01" />
+</div>
