@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/nwht.dign_/">
 <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram">
 </a>
-<a href="ttps://www.facebook.com/luucae.dtnh/">
+<a href="https://www.facebook.com/luucae.dtnh/">
 <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=FFFFFF" alt="Facebook">
 </a>
 
