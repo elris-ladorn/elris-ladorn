@@ -15,5 +15,5 @@
 </p>
 
 `<div align="center">
-<img width="400" height="248" alt="Image" src="https://github.com/user-attachments/assets/4cb0c344-9464-4bff-ba46-1a2de5ae8f01" />
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/4cb0c344-9464-4bff-ba46-1a2de5ae8f01" />
 </div>
