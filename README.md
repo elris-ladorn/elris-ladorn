@@ -1,3 +1,8 @@
+
+<div align="center">
+<img width="350" height="19" alt="Image" src="https://github.com/user-attachments/assets/0c48b9f0-1284-4e4f-8099-b973f01c3512" />
+</div>
+
 <div align="center">
 
 <a href="https://www.instagram.com/nwht.dign_/">
@@ -12,10 +17,8 @@
 <img width="430" height="430" alt="Image" src="https://github.com/user-attachments/assets/600120b0-1b2e-4f45-8aa7-24baadaedefb" />
 </p>
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F7F7F7&width=435&lines=extra+extra+read+all+about+it;Theo+is+in+his+feelin+n+cant+get+out+of+it)](https://git.io/typing-svg)
-
-`<div align="center">
-<img width="350" height="19" alt="Image" src="https://github.com/user-attachments/assets/0c48b9f0-1284-4e4f-8099-b973f01c3512" />
 </div>
 
 
