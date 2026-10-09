@@ -18,7 +18,9 @@
 </p>
 
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F7F7F7&width=435&lines=extra+extra+read+all+about+it;Theo+is+in+his+feelin+n+cant+get+out+of+it)](https://git.io/typing-svg)
+
 </div>
 
 
