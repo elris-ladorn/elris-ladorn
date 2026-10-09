@@ -3,6 +3,10 @@
 <img width="350" height="19" alt="Image" src="https://github.com/user-attachments/assets/0c48b9f0-1284-4e4f-8099-b973f01c3512" />
 </div>
 
+°‧ 𓆝 𓆟 𓆞 ·｡
+
+</div>
+
 <div align="center">
 
 <a href="https://www.instagram.com/nwht.dign_/">
