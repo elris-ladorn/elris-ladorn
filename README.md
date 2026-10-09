@@ -1,5 +1,5 @@
-markdown
-
+<p style="line-height: 2;">
+  
 <div align="center">
 
 <a href="https://www.instagram.com/nwht.dign_/">
@@ -11,10 +11,10 @@ markdown
 </div>
 
 <div align="center">
-<img width="350" height="19" alt="Image" src="https://github.com/user-attachments/assets/0c48b9f0-1284-4e4f-8099-b973f01c3512" />
+<img width="350" height="19" alt="Image" src="https://github.com/user-attachments/assets/0c48b9f0-1284-4e4f-8099-b973f01c3512" /><br>
 <p align="center">
   
-<img width="430" height="430" alt="Image" src="https://github.com/user-attachments/assets/600120b0-1b2e-4f45-8aa7-24baadaedefb" />
+<img width="430" height="430" alt="Image" src="https://github.com/user-attachments/assets/600120b0-1b2e-4f45-8aa7-24baadaedefb" /><br>
 </p>
 </div>
 
