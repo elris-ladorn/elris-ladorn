@@ -14,6 +14,8 @@
 <img width="430" height="430" alt="Image" src="https://github.com/user-attachments/assets/600120b0-1b2e-4f45-8aa7-24baadaedefb" />
 </p>
 
+<img width="350" height="19" alt="Image" src="https://github.com/user-attachments/assets/0c48b9f0-1284-4e4f-8099-b973f01c3512" />
+
 `<div align="center">
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/4cb0c344-9464-4bff-ba46-1a2de5ae8f01" />
 </div>
