@@ -39,13 +39,9 @@
 
 <p align="centre">
 taglist: 
+  
 </p>
 
-<p align="center">
-  <a href="https://google.com">
-    <img src="https://img.shields.io/badge/Elris%20Ladorn-FBI-60A1BD?style=flat&labelColor=D94CBD" alt="Elris Ladorn FBI">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://google.com">
