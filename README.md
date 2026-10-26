@@ -8,9 +8,11 @@
 
 
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=999999&color=D94CBD&width=1000&height=30&center=true&vCenter=true&lines=%5B+..%3F+%5D%E2%A0%80supprter+%3A%E2%A0%80%40+hminh++%E2%98%85+%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80+%E2%80%BA%E2%A0%80offtab+%E2%A0%80%26%E2%A0%80c.h+-+hugs+pls+%EF%B9%97+P.M+%3A%E2%A0%80%E2%80%9C+7h+~+10h+%E2%80%9D+%E1%B5%8B%E2%8F%9C+online+time+%EB%94%B0%EB%94%94%CB%99+%E1%B4%97+%CB%99" alt="profile text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=999999&color=D94CBD&width=1000&height=30&center=true&vCenter=true&lines=%5B+..%3F+%5D%E2%A0%80supprter+%3A%E2%A0%80%40+hminh++%E2%98%85+%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80+%E2%80%BA%E2%A0%80offtab+%E2%A0%80%26%E2%A0%80c.h+-+hugs+pls+%EF%B9%97+P.M+%3A%E2%A0%80%E2%80%9C+7h+~+10h+%E2%80%9D+%E1%B5%8B%E2%8F%9C+online+time" alt="profile text" />
 </div>
+
 
 
 
