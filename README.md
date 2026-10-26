@@ -3,5 +3,5 @@
 </p>
 
 
-[![Elris Ladorn](https://img.shields.io/badge/Elris%20Ladorn-FBI-FF5C89?style=flat&labelColor=E91E63)](https://google.com)
+[![Elris Ladorn](https://img.shields.io/badge/Elris%20Ladorn-FBI-84B3CE?style=flat&labelColor=FB8CAC)](https://google.com)
 
