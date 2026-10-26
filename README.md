@@ -28,18 +28,23 @@
 </p>
   
 
-<table>
-  <tr>
-    <td align="right" width="35%">
-      <p style="color:#D94CBD;">left content here</p>
-    </td>
-    <td align="center" width="30%">
-      <img src="<img width="1000"alt="image"src="https://github.com/user-attachments/assets/7d345eb0-8792-4958-b4b5-ef30a970b3ab">
-    </td>
-    <td align="left" width="35%">
-      <p style="color:#D94CBD;">right content here</p>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="right" width="35%" style="border: none;">
+        left content here
+      </td>
+      <td align="center" width="30%" style="border: none;">
+        <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/1f4c30a2-134b-41e0-a8f4-28fab07b9b0f" />
+      </td>
+      <td align="left" width="35%" style="border: none;">
+        right content here
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 
