@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/532904d0-d031-49ca-963c-739ac3b1f255" />
+</p>
+  
+<p align="center">
   <a href="https://google.com">
     <img src="https://img.shields.io/badge/Elris%20Ladorn-FBI-60A1BD?style=flat&labelColor=D94CBD" alt="Elris Ladorn FBI">
   </a>
