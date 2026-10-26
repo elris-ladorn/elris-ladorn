@@ -39,7 +39,9 @@
 
 <p align="center">
 pp who don't judge: noe - miyu - tinder - hải - chuột
-blacklist do not interact
+<p align="center">
+  blacklist do not interact
+
 
 <p align="center">
   <a href="https://google.com">
