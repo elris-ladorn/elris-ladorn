@@ -46,6 +46,12 @@ pinklist: noe - miyu - tinder - hải - chuột
   blacklist do not interact
 
 
+<p align="center">
+  <a href="https://google.com">
+    <img src="https://img.shields.io/badge/gift%20of%2god-122,0211-84B3CE?style=flat&labelColor=E91E63" alt="gift of god 122,0211">
+  </a>
+</p>
+
 
 <p align="center">
 <img width="1400" height="541" alt="image" src="https://github.com/user-attachments/assets/4a8f2fcd-ce2c-40b2-87de-ac1c06658eba" />
