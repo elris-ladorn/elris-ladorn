@@ -7,7 +7,9 @@
   <a href="https://google.com">
     <img src="https://img.shields.io/badge/Elris%20Ladorn-FBI-60A1BD?style=flat&labelColor=D94CBD" alt="Elris Ladorn FBI">
   </a>
+</p>
 
+<p align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF59DE&width=435&lines=I'm+older+than+you+now)](https://git.io/typing-svg)
 </p>
 
