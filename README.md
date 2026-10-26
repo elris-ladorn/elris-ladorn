@@ -41,7 +41,7 @@
 </table>
 
 <p align="center">
-pp who don't judge: noe - miyu - tinder - hải - chuột
+pinklist: noe - miyu - tinder - hải - chuột
 <p align="center">
   blacklist do not interact
 
@@ -56,4 +56,6 @@ pp who don't judge: noe - miyu - tinder - hải - chuột
 <img width="1400" height="541" alt="image" src="https://github.com/user-attachments/assets/4a8f2fcd-ce2c-40b2-87de-ac1c06658eba" />
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=D94CBD&width=435&lines=would+you+die+tonight+for+love%3F;baby+join+me+in+dead" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=500&color=D94CBD&width=435&lines=would+you+die+tonight+for+love%3F;baby+join+me+in+dead" alt="Typing SVG" /></a>
+</p>
