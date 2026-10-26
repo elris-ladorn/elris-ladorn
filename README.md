@@ -1,4 +1,3 @@
 <p align="center">
-<img width="1900" height="466" alt="image" src="https://github.com/user-attachments/assets/f0d4fe5f-19ca-4e43-9efb-83916da7b162" />
-
+https://raw.githubusercontent.com/depends-0nME/stub/7d40fe3ebb0b85591fcf1f5afd7504ba81d395b4/till1.png
 </p>
