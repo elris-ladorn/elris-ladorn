@@ -38,7 +38,8 @@
 </table>
 
 <p align="center">
-taglist:  @DAZAIH0LIC  @X00DK-04L  @G4VEALL9-NOX 
+pp who don't judge: noe - miyu - tinder - hải - chuột
+blacklist do not interact
 
 <p align="center">
   <a href="https://google.com">
