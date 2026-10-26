@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-<span style="color: #D94CBD;">self-indulgent sleeping.⠀211 , currently on hiatus . ⠀[ us -> world makes sense ] (꒪ཀ꒪)</span>
+
+<p style="color: #60A1BD;">&gt;self-indulgent sleeping.⠀211 , currently on hiatus . ⠀[ us -&gt; world makes sense ] (꒪ཀ꒪) </p>
+
 
 <p align="center">
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/532904d0-d031-49ca-963c-739ac3b1f255" />
