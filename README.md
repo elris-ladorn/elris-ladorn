@@ -7,9 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF59DE&width=435&lines=I'm+older+than+you+now" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
 
-<p style="color: #60A1BD;">&gt;self-indulgent sleeping.⠀211 , currently on hiatus . ⠀[ us -&gt; world makes sense ] (꒪ཀ꒪) </p>
+<p style="color: #60A1BD;">&gt;self-indulgent sleeping.⠀211 , currently on hiatus . ⠀[ us -&gt; world makes sense ] (꒪ཀ꒪)>
+</p>
+
 
 
 <p align="center">
