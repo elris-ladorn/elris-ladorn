@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF59DE&width=435&lines=I'm+older+than+you+now)](https://git.io/typing-svg)
+  
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF59DE&width=435&lines=I'm+older+than+you+now" alt="Typing SVG" /></a>
 </p>
 
 
