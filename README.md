@@ -37,12 +37,8 @@
   </tr>
 </table>
 
-<p align="centre">
-  
-taglist: 
-  
-</p>
-
+<p align="center">
+taglist
 
 <p align="center">
   <a href="https://google.com">
