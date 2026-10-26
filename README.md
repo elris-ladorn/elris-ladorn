@@ -50,5 +50,5 @@ pp who don't judge: noe - miyu - tinder - hải - chuột
 </p>
 
 <p align="center">
-<img width="1400" height="341" alt="image" src="https://github.com/user-attachments/assets/4a8f2fcd-ce2c-40b2-87de-ac1c06658eba" />
+<img width="1400" height="541" alt="image" src="https://github.com/user-attachments/assets/4a8f2fcd-ce2c-40b2-87de-ac1c06658eba" />
 </p>
