@@ -48,6 +48,3 @@ pinklist: noe - miyu - tinder - hải - chuột
 </p>
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=D94CBD&width=435&lines=would+you+die+tonight+for+love%3F;baby+join+me+in+dead" alt="Typing SVG" /></a>
-</p>
