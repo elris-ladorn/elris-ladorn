@@ -23,12 +23,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF59DE&width=435&lines=I'm+older+than+you+now" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <a href="https://google.com">
-    <img src="https://img.shields.io/badge/Elris%20Ladorn-FBI-60A1BD?style=flat&labelColor=D94CBD" alt="Elris Ladorn FBI">
-  </a>
-</p>
-
 <table>
   <tr>
     <td align="center">
@@ -43,3 +37,22 @@
   </tr>
 </table>
 
+<p align="centre">
+taglist: 
+</p>
+
+<p align="center">
+  <a href="https://google.com">
+    <img src="https://img.shields.io/badge/Elris%20Ladorn-FBI-60A1BD?style=flat&labelColor=D94CBD" alt="Elris Ladorn FBI">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://google.com">
+    <img src="https://img.shields.io/badge/Elris%20Ladorn-FBI-60A1BD?style=flat&labelColor=D94CBD" alt="Elris Ladorn FBI">
+  </a>
+</p>
+
+<p align="center">
+<img width="1900" height="841" alt="image" src="https://github.com/user-attachments/assets/4a8f2fcd-ce2c-40b2-87de-ac1c06658eba" />
+</p>
