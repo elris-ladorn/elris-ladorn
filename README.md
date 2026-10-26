@@ -2,10 +2,6 @@
 <img width="1900" height="466" alt="image" src="https://github.com/user-attachments/assets/f79fb46a-8f04-44e5-b728-852d6d676d5a" />
 </p>
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF59DE&width=435&lines=I'm+older+than+you+now" alt="Typing SVG" /></a>
-</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=999999&color=60A1BD&width=600&height=30&center=true&vCenter=true&lines=self-indulgent+sleeping.%E2%A0%80211+%2C+currently+on+hiatus+.+%E2%A0%80%5B+us+-%3E+world+makes+sense+%5D+%28%EA%92%AA%E0%BD%80%EA%92%AA%29" />
@@ -40,3 +36,8 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF59DE&width=435&lines=I'm+older+than+you+now" alt="Typing SVG" /></a>
+</p>
