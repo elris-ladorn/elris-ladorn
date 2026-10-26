@@ -28,4 +28,18 @@
 </p>
   
 
+<table>
+  <tr>
+    <td align="right" width="35%">
+      <p style="color:#D94CBD;">left content here</p>
+    </td>
+    <td align="center" width="30%">
+      <img src="<img width="1000"alt="image"src="https://github.com/user-attachments/assets/7d345eb0-8792-4958-b4b5-ef30a970b3ab">
+    </td>
+    <td align="left" width="35%">
+      <p style="color:#D94CBD;">right content here</p>
+    </td>
+  </tr>
+</table>
+
 
