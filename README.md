@@ -28,23 +28,11 @@
 </p>
   
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="right" width="35%" style="border: none;">
-        left content here
-      </td>
-      <td align="center" width="30%" style="border: none;">
-        <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/1f4c30a2-134b-41e0-a8f4-28fab07b9b0f" />
-      </td>
-      <td align="left" width="35%" style="border: none;">
-        right content here
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
+<p align="center">
+  <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/c1f80c6d-7b15-4592-9353-000e2ffc2f0c" />
+  &nbsp;&nbsp;
+  <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/4685b68f-6c69-4824-858f-38cb38aebade" />
+  &nbsp;&nbsp;
+  <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/88b9ce8b-28ac-4883-be63-e0e260face1a" />
+</p>
 
