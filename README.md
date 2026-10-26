@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-<span style="color: #D94CBD;">self-indulgent editing sideblog.⠀211 , currently on hiatus . ⠀[ cogniris -> mourged ] 𖹭 
-</span>
+<span style="color: #D94CBD;">self-indulgent editing sideblog.⠀211 , currently on hiatus . ⠀[ cogniris -> mourged ] 𖹭</span>
 
 <p align="center">
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/532904d0-d031-49ca-963c-739ac3b1f255" />
