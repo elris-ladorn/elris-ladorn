@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://google.com">
-    <img src="https://img.shields.io/badge/Elris%20Ladorn-FBI-84B3CE?style=flat&labelColor=FB8CAC" alt="Elris Ladorn FBI">
+    <img src="https://img.shields.io/badge/Elris%20Ladorn-FBI-60A1BD?style=flat&labelColor=D94CBD" alt="Elris Ladorn FBI">
   </a>
 </p>
 
