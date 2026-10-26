@@ -13,12 +13,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=999999&color=D94CBD&width=1000&height=30&center=true&vCenter=true&lines=%5B+..%3F+%5D%E2%A0%80supprter+%3A%E2%A0%80%40+hminh++%E2%98%85+%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80+%E2%80%BA%E2%A0%80offtab+%E2%A0%80%26%E2%A0%80c.h+-+hugs+pls+%EF%B9%97+P.M+%3A%E2%A0%80%E2%80%9C+7h+~+10h+%E2%80%9D+%E1%B5%8B%E2%8F%9C+online+time" alt="profile text" />
 </div>
 
-
-
-
-
 <p align="center">
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/532904d0-d031-49ca-963c-739ac3b1f255" />
+<img width="1400" height="541" alt="image" src="https://github.com/user-attachments/assets/4a8f2fcd-ce2c-40b2-87de-ac1c06658eba" />
 </p>
 
   <p align="center">
@@ -51,9 +47,6 @@ pinklist: noe - miyu - tinder - hải - chuột
   </a>
 </p>
 
-<p align="center">
-<img width="1400" height="541" alt="image" src="https://github.com/user-attachments/assets/4a8f2fcd-ce2c-40b2-87de-ac1c06658eba" />
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=D94CBD&width=435&lines=would+you+die+tonight+for+love%3F;baby+join+me+in+dead" alt="Typing SVG" /></a>
