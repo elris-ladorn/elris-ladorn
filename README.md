@@ -48,7 +48,7 @@ pinklist: noe - miyu - tinder - hải - chuột
 
 <p align="center">
   <a href="https://google.com">
-    <img src="https://img.shields.io/badge/gift%20of%2god-122,0211-84B3CE?style=flat&labelColor=E91E63" alt="gift of god 122,0211">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=999999&color=D94CBD&width=1000&height=30&center=true&vCenter=true&lines=gift+of+god+%E2%A0%80122%2C0211" alt="gift of god 122,0211" />
   </a>
 </p>
 
