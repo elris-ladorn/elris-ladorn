@@ -13,8 +13,11 @@
 
 <p align="center">
 [ ..? ]⠀ supprter :⠀@ hminh  ★
-          ›⠀offtab ⠀&⠀c.h - hugs pls ﹗ 
-P.M :⠀“ 7h ~ 10h ”
+
+  ---›⠀offtab ⠀&⠀c.h - hugs pls ﹗ 
+
+  P.M :⠀“ 7h ~ 10h ”
+
 ︵⏜ online time ദ്ദി˙ ᴗ ˙ )
 
 <p align="center">
