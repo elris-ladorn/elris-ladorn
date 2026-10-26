@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=999999&color=60A1BD&width=1000&height=30&lines=%3Eself-indulgent+sleeping.%E2%A0%80211+%2C+currently+on+hiatus+.+%E2%A0%80%5B+us+-%3E+world+makes+sense+%5D+%28%EA%92%AA%E0%BD%80%EA%92%AA%29" />
 </p>
 
-<p align="center">
-[ ..? ]⠀ supprter :⠀@ hminh  ★
-       ›⠀offtab ⠀&⠀c.h - hugs pls ﹗ 
- P.M :⠀“ 7h ~ 10h ”
-︵⏜ online time ദ്ദി˙ ᴗ ˙ )
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=999999&color=D94CBD&width=800&height=100&center=true&vCenter=true&lines=%5B+..%3F+%5D%E2%A0%80supprter+%3A%E2%A0%80%40+hminh+%E2%98%85%3B%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E2%80%BA%E2%A0%80offtab%E2%A0%80%26%E2%A0%80c.h+-+hugs+pls+%EF%B9%97%3BP.M+%3A%E2%A0%80%E2%80%9C+7h+~+10h+%E2%80%9D%3B%EF%B8%B5%E2%8F%9C+online+time+%EB%8B%A4%EB%94%94%CB%99+%E1%B4%97+%CB%99" alt="supporter, offtab, P.M and online time" />
+</div>
+
 
 
 <p align="center">
