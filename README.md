@@ -47,9 +47,7 @@ pinklist: noe - miyu - tinder - hải - chuột
 
 
 <p align="center">
-  <a href="https://google.com">
-    <img src="https://img.shields.io/badge/Elris%20Ladorn-FBI-60A1BD?style=flat&labelColor=D94CBD" alt="Elris Ladorn FBI">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=D94CBD&width=435&lines=would+you+die+tonight+for+love%3F;baby+join+me+in+dead" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
