@@ -1,33 +1,3 @@
-<p style="line-height: 2;">
-  
-<div align="center">
-
-<a href="https://www.instagram.com/nwht.dign_/">
-<img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram">
-</a>
-<a href="https://www.facebook.com/luucae.dtnh/">
-<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=FFFFFF" alt="Facebook">
-</a>
-</div>
-
-<div align="center">
-<img width="350" height="19" alt="Image" src="https://github.com/user-attachments/assets/0c48b9f0-1284-4e4f-8099-b973f01c3512" /><br>
 <p align="center">
-  
-<img width="430" height="430" alt="Image" src="https://github.com/user-attachments/assets/600120b0-1b2e-4f45-8aa7-24baadaedefb" /><br>
+<img width="1900" height="466" alt="image" src="https://github.com/user-attachments/assets/a875a0b8-89a4-4495-a87d-14a3fc0436bd" />
 </p>
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F7F7F7&width=435&lines=extra+extra+read+all+about+it;Theo+is+in+his+feelin+n+cant+get+out+of+it)](https://git.io/typing-svg)
-
-
-</div>
-
-
-<div align="center">
-
-°‧ 𓆝 𓆟 𓆞 ·｡
-
-</div>
