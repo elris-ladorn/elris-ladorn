@@ -22,7 +22,12 @@
 <p align="center">
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/532904d0-d031-49ca-963c-739ac3b1f255" />
 </p>
-  
+
+  <p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF59DE&width=435&lines=I'm+older+than+you+now" alt="Typing SVG" /></a>
+</p>
+
 <table>
   <tr>
     <td align="center">
@@ -37,7 +42,3 @@
   </tr>
 </table>
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF59DE&width=435&lines=I'm+older+than+you+now" alt="Typing SVG" /></a>
-</p>
