@@ -116,4 +116,7 @@ pinklist: noe - miyu - tinder - hải - chuột
 </p>
 
 soon upd
-[guns.]([https://guns.lol/e1ris]) lol
+
+<p align="center">
+  <a href="https://guns.lol/e1ris">gunsd</a>
+</p>
